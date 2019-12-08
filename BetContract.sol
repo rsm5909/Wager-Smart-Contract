@@ -1,7 +1,7 @@
 pragma solidity >0.4.99;
 
 contract Betting{
-  //https://medium.com/coinmonks/create-a-sports-betting-dapp-on-the-ethereum-blockchain-part-1-1f69f908b939
+  //Modified from -----> https://medium.com/coinmonks/create-a-sports-betting-dapp-on-the-ethereum-blockchain-part-1-1f69f908b939
     
   uint256 public minimumBet;
   uint256 public totalBetOne;
